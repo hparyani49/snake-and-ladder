@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/snake-and-ladder/precache-manifest.3e7f246ea6a4d92db2129e6c4069a5da.js"
+  "/snake-and-ladder/precache-manifest.acbe0639f8365fca63923649a5fa0f1d.js"
 );
 
 self.addEventListener('message', (event) => {

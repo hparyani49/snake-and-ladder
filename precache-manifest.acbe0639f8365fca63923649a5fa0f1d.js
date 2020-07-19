@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa84fe8bd706d5fac84282e5e4ec3fc1",
+    "revision": "bb0b196f22cc89970852c08711184602",
     "url": "/snake-and-ladder/index.html"
   },
   {
-    "revision": "80e2fa20bc71eb755f04",
-    "url": "/snake-and-ladder/static/css/main.6a8b358b.chunk.css"
+    "revision": "d02e36ed5786f322cceb",
+    "url": "/snake-and-ladder/static/css/main.ff67bdf5.chunk.css"
   },
   {
-    "revision": "dc1bc54f7f1b886aca1a",
-    "url": "/snake-and-ladder/static/js/2.92b1f9a0.chunk.js"
+    "revision": "ad6bfee14f51e400e8be",
+    "url": "/snake-and-ladder/static/js/2.77a7254a.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/snake-and-ladder/static/js/2.92b1f9a0.chunk.js.LICENSE.txt"
+    "url": "/snake-and-ladder/static/js/2.77a7254a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "80e2fa20bc71eb755f04",
-    "url": "/snake-and-ladder/static/js/main.59cda72d.chunk.js"
+    "revision": "d02e36ed5786f322cceb",
+    "url": "/snake-and-ladder/static/js/main.0c763770.chunk.js"
   },
   {
     "revision": "50c6855118f1a8501e71",
