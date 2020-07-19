@@ -9,8 +9,8 @@
         overflow: hidden;
         display: flex;
         flex-direction: column;
-        width: 50vw;
-        height: 50vw;
+        width: 80vw;
+        height: 80vw;
         transform: rotate(180deg);
         background-image: url('../../../assets/ladder3.png'), url('../../../assets/ladder4.jpg'), url('../../../assets/ladder8.jpeg'), url('../../../assets/ladder8.jpeg');
         background-repeat: no-repeat;
@@ -83,6 +83,7 @@
     .start-positions{
         display: flex;
         justify-content: center;
+        flex-wrap: wrap;
     }
     .each-player{
         display: flex;
