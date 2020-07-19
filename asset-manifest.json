@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/snake-and-ladder/static/css/main.ff67bdf5.chunk.css",
-    "main.js": "/snake-and-ladder/static/js/main.0c763770.chunk.js",
-    "main.js.map": "/snake-and-ladder/static/js/main.0c763770.chunk.js.map",
-    "runtime-main.js": "/snake-and-ladder/static/js/runtime-main.d87b745f.js",
-    "runtime-main.js.map": "/snake-and-ladder/static/js/runtime-main.d87b745f.js.map",
-    "static/js/2.77a7254a.chunk.js": "/snake-and-ladder/static/js/2.77a7254a.chunk.js",
-    "static/js/2.77a7254a.chunk.js.map": "/snake-and-ladder/static/js/2.77a7254a.chunk.js.map",
-    "index.html": "/snake-and-ladder/index.html",
-    "precache-manifest.acbe0639f8365fca63923649a5fa0f1d.js": "/snake-and-ladder/precache-manifest.acbe0639f8365fca63923649a5fa0f1d.js",
-    "service-worker.js": "/snake-and-ladder/service-worker.js",
-    "static/css/main.ff67bdf5.chunk.css.map": "/snake-and-ladder/static/css/main.ff67bdf5.chunk.css.map",
-    "static/js/2.77a7254a.chunk.js.LICENSE.txt": "/snake-and-ladder/static/js/2.77a7254a.chunk.js.LICENSE.txt",
-    "static/media/dice.gif": "/snake-and-ladder/static/media/dice.b44733eb.gif",
-    "static/media/game.scss": "/snake-and-ladder/static/media/snake7.15cf8b5f.jpg"
+    "main.css": "/snake-ladder/static/css/main.0e7c964f.chunk.css",
+    "main.js": "/snake-ladder/static/js/main.fc8c0869.chunk.js",
+    "main.js.map": "/snake-ladder/static/js/main.fc8c0869.chunk.js.map",
+    "runtime-main.js": "/snake-ladder/static/js/runtime-main.aefb9bbe.js",
+    "runtime-main.js.map": "/snake-ladder/static/js/runtime-main.aefb9bbe.js.map",
+    "static/js/2.77a7254a.chunk.js": "/snake-ladder/static/js/2.77a7254a.chunk.js",
+    "static/js/2.77a7254a.chunk.js.map": "/snake-ladder/static/js/2.77a7254a.chunk.js.map",
+    "index.html": "/snake-ladder/index.html",
+    "precache-manifest.c14537786df3759eaa9ab00327745685.js": "/snake-ladder/precache-manifest.c14537786df3759eaa9ab00327745685.js",
+    "service-worker.js": "/snake-ladder/service-worker.js",
+    "static/css/main.0e7c964f.chunk.css.map": "/snake-ladder/static/css/main.0e7c964f.chunk.css.map",
+    "static/js/2.77a7254a.chunk.js.LICENSE.txt": "/snake-ladder/static/js/2.77a7254a.chunk.js.LICENSE.txt",
+    "static/media/dice.gif": "/snake-ladder/static/media/dice.b44733eb.gif",
+    "static/media/game.scss": "/snake-ladder/static/media/snake7.15cf8b5f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d87b745f.js",
+    "static/js/runtime-main.aefb9bbe.js",
     "static/js/2.77a7254a.chunk.js",
-    "static/css/main.ff67bdf5.chunk.css",
-    "static/js/main.0c763770.chunk.js"
+    "static/css/main.0e7c964f.chunk.css",
+    "static/js/main.fc8c0869.chunk.js"
   ]
 }
