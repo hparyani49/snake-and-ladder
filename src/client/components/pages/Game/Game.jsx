@@ -109,7 +109,7 @@ const Game = (props) => {
         if (activePlayer == numberOfPlayers - 1) {
             setActivePlayer(0);
         } else {
-            setActivePlayer(++activePlayer);
+            setActivePlayer(activePlayer + 1);
         }
     }
 
